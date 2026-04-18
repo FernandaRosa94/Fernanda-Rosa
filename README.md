@@ -28,5 +28,5 @@
 ---
 
 ## 📫 Contato
-- LinkedIn: www.linkedin.com/in/fernanda-rosa-629a422a1
+- LinkedIn: https://www.linkedin.com/in/fernanda-rosa-71a4923b8
 - Email: fernanda.rosa0984@gmail.com
